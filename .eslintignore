@@ -1,0 +1,6 @@
+src/screens/NewsDetailScreen.js
+src/screens/NewScreen.js
+src/components/NewsItem.js
+src/services/SentimentService.js
+src/services/NewsService.js
+src/components/NewsItem.js
